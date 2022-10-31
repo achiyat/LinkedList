@@ -1,0 +1,8 @@
+﻿  Header_Linked_List_exe.c
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Header_Linked_List_exe\Header_Linked_List_exe\Header_Linked_List_exe.c(47,16): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Header_Linked_List_exe\Header_Linked_List_exe\Header_Linked_List_exe.c(48,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Header_Linked_List_exe\Header_Linked_List_exe\Header_Linked_List_exe.c(61,24): warning C4013: 'getch' undefined; assuming extern returning int
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Header_Linked_List_exe\Header_Linked_List_exe\Header_Linked_List_exe.c(140,19): warning C4098: 'AddItem': 'void' function returning a value
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Header_Linked_List_exe\Header_Linked_List_exe\Header_Linked_List_exe.c(351,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Header_Linked_List_exe\Header_Linked_List_exe\Header_Linked_List_exe.c(347,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Header_Linked_List_exe.vcxproj -> C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\Header_Linked_List_exe\x64\Debug\Header_Linked_List_exe.exe

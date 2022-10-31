@@ -1,0 +1,4 @@
+﻿  queue_class.c
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\queue\queue_class\queue_class\queue_class.c(49,16): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\queue\queue_class\queue_class\queue_class.c(50,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  queue_class.vcxproj -> C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\queue\queue_class\x64\Debug\queue_class.exe

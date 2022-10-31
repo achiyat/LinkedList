@@ -1,0 +1,5 @@
+﻿  LIFO_exe.c
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\LIFO_exe\LIFO_exe\LIFO_exe.c(34,16): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\LIFO_exe\LIFO_exe\LIFO_exe.c(35,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\LIFO_exe\LIFO_exe\LIFO_exe.c(40,24): warning C4013: 'getch' undefined; assuming extern returning int
+  LIFO_exe.vcxproj -> C:\Users\achiy\Desktop\visual studio\רשימות מקושרות\LIFO_exe\x64\Debug\LIFO_exe.exe

@@ -1,0 +1,4 @@
+﻿  file_headers_list_class.c
+C:\Users\achiy\source\repos\file_headers_list_class\file_headers_list_class\file_headers_list_class.c(139,10): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\achiy\source\repos\file_headers_list_class\file_headers_list_class\file_headers_list_class.c(125,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  file_headers_list_class.vcxproj -> C:\Users\achiy\source\repos\file_headers_list_class\x64\Debug\file_headers_list_class.exe
